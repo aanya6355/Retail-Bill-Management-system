@@ -1,1 +1,2 @@
-# Retail-Bill-Management-system
+Retail Bill Management System
+Developed a desktop-based Retail Bill Management System using Python and Tkinter to automate billing operations. The system allows users to generate bills, calculate totals with taxes, and manage customer purchase details efficiently. It improves accuracy, reduces manual errors, and provides a user-friendly interface for smooth billing processes.# Retail-Bill-Management-system
